@@ -1,6 +1,6 @@
 
-x=10
-y=15
+x=20
+y=35
 temp=x
 x=y
 y=temp 
